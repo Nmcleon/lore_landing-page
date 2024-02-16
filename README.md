@@ -5,7 +5,7 @@
 Welcome to the Lore Project – your one-stop destination for the finest liquor experience. This project aims to provide a curated collection of high-quality liquors, from exquisite wines to robust whiskies, enhancing your drinking pleasure.
 
 Visit our website: [Lore Project](https://website-url.com) (yet to be deployed)
-& our Langing Page at  https://nmcleon.github.io/lore_landing-page/
+& our Langing Page: [Landing Page](https://nmcleon.github.io/lore_landing-page/) 
 
 ## Features
 
